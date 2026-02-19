@@ -10,9 +10,9 @@
 </p>
 
 - 🌱 I’m currently learning **React js**
-- 👨‍💻 Portfolio => [https://abu-salah-musha-lemon.github.io/Personal-Portfolio/](https://abu-salah-musha-lemon.github.io/Personal-Portfolio/)
+- 👨‍💻 Portfolio => [(https://sites.google.com/view/sayedur-rahman-leon/home)](https://sites.google.com/view/sayedur-rahman-leon/home)
 - 👨‍💻 All of my projects are available at<br>
-[https://github.com/Abu-Salah-Musha-Lemon](https://github.com/Abu-Salah-Musha-Lemon)
+[https://github.com/Sayedur-Rahman-Leon](https://github.com/Sayedur-Rahman-Leon)
 - 📫 How to reach me **srleon512@gmail.com**<br>
 
 
