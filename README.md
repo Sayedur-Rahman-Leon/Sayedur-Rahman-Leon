@@ -74,13 +74,13 @@
         alt="abu-salah-musha-lemon" />
     -->
         <img align = "left"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedur-rahman-leon&theme=blue-green"
-             alt="sayedur-rahman-leon"/>
+             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedur-Rahman-Leon&theme=blue-green"
+             alt="Sayedur-Rahman-Leon"/>
     </p>
     <p>
         &nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=sayedur-rahman-leon&show_icons=true&theme=transparent"
-            alt="sayedur-rahman-leon" />
+            src="https://github-readme-stats.vercel.app/api?username=Sayedur-Rahman-Leon&show_icons=true&theme=transparent"
+            alt="Sayedur-Rahman-Leon" />
     </p>
 </p>
 
