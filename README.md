@@ -9,7 +9,7 @@
         alt="Sayedur-Rahman-Leon" />
 </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Python**
 - 👨‍💻 Portfolio => [(https://sites.google.com/view/sayedur-rahman-leon/home)](https://sites.google.com/view/sayedur-rahman-leon/home)
 - 👨‍💻 All of my projects are available at<br>
 [https://github.com/Sayedur-Rahman-Leon](https://github.com/Sayedur-Rahman-Leon)
