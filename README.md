@@ -1,115 +1,50 @@
-![MasterHead](https://wallpaperaccess.com/full/2471303.gif)
-<h1 align="center">Hi 👋, I'm Sayedur Rahman Leon </h1>
+<div align="center">
 
-<h3 align="center">I'm valamanush</h3>
-<img align="right" alt="Coding" width="280"
-    src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sayedur-rahman-leon&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Sayedur-Rahman-Leon" />
-</p>
+# Sayedur Rahman Leon
 
-- 🌱 I’m currently learning **Python**
-- 👨‍💻 Portfolio => [(https://sites.google.com/view/sayedur-rahman-leon/home)](https://sites.google.com/view/sayedur-rahman-leon/home)
-- 👨‍💻 All of my projects are available at<br>
-[https://github.com/Sayedur-Rahman-Leon](https://github.com/Sayedur-Rahman-Leon)
-- 📫 How to reach me **srleon512@gmail.com**<br>
+**C# Developer · Computer Science & Engineering Student**
 
+*Desktop software, web development, and applied research.*
 
-<h3 align="left">🔗Connect with me:</h3>
-<br />
-<p align="left">
-    <a href="https://linkedin.com/in/sayedur-rahman-leon" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="Sayedur-Rahman-Leon" height="30" width="40" />
-    </a>
-    
-</p>
+[Portfolio](https://sayedur-rahman-leon.github.io/Portfolio/) · [GitHub Projects](https://github.com/Sayedur-Rahman-Leon?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/sayedur-rahman-leon/) · [Email](mailto:srleon512@gmail.com)
 
-<h3 align="left">⚒️ Languages and Tools ⚒️ </h3>
-   <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />
-  </a>
-</p>
-    
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-    <p>
-   <!-- <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-salah-musha-lemon&show_icons=true&locale=en&layout=compact"
-        alt="abu-salah-musha-lemon" />
-    -->
-        <img align = "left"
-             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedur-Rahman-Leon&theme=blue-green"
-             alt="Sayedur-Rahman-Leon"/>
-    </p>
-    <p>
-        &nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=Sayedur-Rahman-Leon&show_icons=true&theme=transparent"
-            alt="Sayedur-Rahman-Leon" />
-    </p>
-</p>
+</div>
 
-<br/>
-<br/>
-<br/>
-<h3 align="left">🏆 GitHub Trophies</h3>
-<!--
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"> &nbsp;
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=abu-salah-musha-lemon" alt="abu-salah-musha-lemon">
-    </a> 
-</p> -->
-<!--
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-salah-musha-lemon&"
-        alt="abu-salah-musha-lemon" />
-</p> -->
+---
 
-## GitHub Activity
+## About
 
-<p align="center">
-<img width="96.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayedur-rahman-leon&theme=algolia" alt="GitHub Streak" />
+I'm a Computer Science and Engineering student at **American International University–Bangladesh (AIUB)**, based in Dhaka. My technical interests include **C# desktop applications**, **responsive websites**, and **data-oriented problem solving**. I also contribute to academic research.
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayedur-rahman-leon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayedur-rahman-leon&theme=algolia" style="width: 48%; height: 100%; margin-bottom: 5px;">
-</p>
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayedur-rahman-leon&theme=algolia" style="width: 48%; margin-bottom: 5px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayedur-rahman-leon&theme=algolia&utcOffset=8" style="width: 48%; margin-bottom: 10px;">
-</p>
+## Featured Project
+
+### [Dynamic Portfolio Website](https://github.com/Sayedur-Rahman-Leon/Portfolio)
+
+A multi-page portfolio built with **HTML, CSS, Bootstrap 5, JavaScript, and JSON**. Its content is managed through structured JSON files, while JavaScript renders the pages. The project also includes configurable themes and a browser-based JSON content manager.
+
+**Explore:** [Live website](https://sayedur-rahman-leon.github.io/Portfolio/) · [Source code](https://github.com/Sayedur-Rahman-Leon/Portfolio)
+
+## Research
+
+### [Climate Change and Vector-Borne Diseases: Dengue and Malaria Risks in Urban Bangladesh](https://dining.aiub.edu/Files/student-research/Climate_Change_and_Vector-Borne_Diseases_Dengue_and_Malaria_Risks_in_Urban_Bangladesh.html)
+
+**Student co-author · 7th International Conference on Integrated Sciences · 2025**
+
+Research examining trends in public-health indicators and their relationship to climate-related disease risks in urban Bangladesh. The conference contribution is listed on AIUB's student research website.
+
+## Technical Toolkit
+
+| Area | Technologies and concepts |
+| --- | --- |
+| Desktop development | C#, .NET, Windows Forms, object-oriented programming |
+| Web development | HTML, CSS, Bootstrap, JavaScript, JSON |
+| Databases | SQL, MySQL |
+| Other languages | C, C++, Java |
+| Currently learning | Python |
+
+## Contact
+
+For project discussions or research-related contact:
+
+**Email:** [srleon512@gmail.com](mailto:srleon512@gmail.com)  
+**LinkedIn:** [sayedur-rahman-leon](https://www.linkedin.com/in/sayedur-rahman-leon/)
