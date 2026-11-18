@@ -2,11 +2,11 @@
 
 # Sayedur Rahman Leon
 
-**C# Developer · Computer Science & Engineering Student**
+**C# Developer · Computer Science & Engineering Student at AIUB**
 
-*Desktop software, web development, and applied research.*
+Desktop applications · Web development · Applied research
 
-[Portfolio](https://sayedur-rahman-leon.github.io/Portfolio/) · [GitHub Projects](https://github.com/Sayedur-Rahman-Leon?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/sayedur-rahman-leon/) · [Email](mailto:srleon512@gmail.com)
+[Portfolio](https://sayedur-rahman-leon.github.io/Portfolio/) · [Projects](https://github.com/Sayedur-Rahman-Leon?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/sayedur-rahman-leon/) · [Email](mailto:srleon512@gmail.com)
 
 </div>
 
@@ -14,15 +14,15 @@
 
 ## About
 
-I'm a Computer Science and Engineering student at **American International University–Bangladesh (AIUB)**, based in Dhaka. My technical interests include **C# desktop applications**, **responsive websites**, and **data-oriented problem solving**. I also contribute to academic research.
+I'm a Computer Science and Engineering student at **American International University–Bangladesh (AIUB)** in Dhaka, Bangladesh. My work and interests include **C# desktop development**, **responsive web applications**, and **data-oriented research**.
 
 ## Featured Project
 
-### [Dynamic Portfolio Website](https://github.com/Sayedur-Rahman-Leon/Portfolio)
+### [Portfolio Website](https://github.com/Sayedur-Rahman-Leon/Portfolio)
 
-A multi-page portfolio built with **HTML, CSS, Bootstrap 5, JavaScript, and JSON**. Its content is managed through structured JSON files, while JavaScript renders the pages. The project also includes configurable themes and a browser-based JSON content manager.
+A multi-page personal portfolio developed with **HTML, CSS, Bootstrap, JavaScript, and JSON**. It uses structured content files and client-side JavaScript to present project and profile information.
 
-**Explore:** [Live website](https://sayedur-rahman-leon.github.io/Portfolio/) · [Source code](https://github.com/Sayedur-Rahman-Leon/Portfolio)
+**Links:** [Source code](https://github.com/Sayedur-Rahman-Leon/Portfolio) · [Live website](https://sayedur-rahman-leon.github.io/Portfolio/)
 
 ## Research
 
@@ -30,21 +30,19 @@ A multi-page portfolio built with **HTML, CSS, Bootstrap 5, JavaScript, and JSON
 
 **Student co-author · 7th International Conference on Integrated Sciences · 2025**
 
-Research examining trends in public-health indicators and their relationship to climate-related disease risks in urban Bangladesh. The conference contribution is listed on AIUB's student research website.
+Research on public-health trends, healthcare equity, and climate-related vector-borne disease risks in urban Bangladesh. The contribution is listed in AIUB's student research records.
 
 ## Technical Toolkit
 
-| Area | Technologies and concepts |
+| Area | Technologies |
 | --- | --- |
-| Desktop development | C#, .NET, Windows Forms, object-oriented programming |
+| Desktop development | C#, .NET, Windows Forms, OOP |
 | Web development | HTML, CSS, Bootstrap, JavaScript, JSON |
 | Databases | SQL, MySQL |
-| Other languages | C, C++, Java |
+| Other programming languages | C, C++, Java |
 | Currently learning | Python |
 
 ## Contact
 
-For project discussions or research-related contact:
-
-**Email:** [srleon512@gmail.com](mailto:srleon512@gmail.com)  
-**LinkedIn:** [sayedur-rahman-leon](https://www.linkedin.com/in/sayedur-rahman-leon/)
+- **Email:** [srleon512@gmail.com](mailto:srleon512@gmail.com)
+- **LinkedIn:** [sayedur-rahman-leon](https://www.linkedin.com/in/sayedur-rahman-leon/)
